@@ -1,12 +1,6 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
       "id": 2,
       "name": "Pomegranate",
       "category": "Produce",
@@ -35,6 +29,24 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Baby",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 8
+    },
+    {
+      "name": "motor",
+      "category": "Produce",
+      "isInCart": true,
+      "id": 11
+    },
+    {
+      "name": "motor",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 12
     }
   ]
 }
